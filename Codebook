@@ -1,8 +1,5 @@
 Code book for tidy_dataset.txt
 
-CREATED BY : Kannan Sundararaman
-
-for coursera Getting and Cleaning data - signature track - data science.
 The project goal is to create a tidy dataset using the supplied dataset with following steps.
 
 Merges the training and the test sets to create one data set.
